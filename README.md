@@ -434,11 +434,6 @@ Real screenshots taken directly from the Google Cloud Console while building thi
 ## 🔗 Resources
 
 - [Network Connectivity Center overview](https://cloud.google.com/network-connectivity/docs/network-connectivity-center)
-- [NCC Part 1 — Hub-and-Spoke Basics (video)](https://www.youtube.com/watch?v=KqoJF2MrIbw)
-- [NCC Part 2 — Edge & Centre Groups (video)](https://www.youtube.com/watch?v=lylJoMHYDgk)
-- [Producer VPC Spokes — Preview (video)](https://www.youtube.com/watch?v=4PgFTRhEvGQ)
-- [PSC Connection Propagation — Part 4 (video)](https://www.youtube.com/watch?v=RNzBLn8Tz6g)
-- [NCC pricing documentation](https://cloud.google.com/network-connectivity/docs/network-connectivity-center/pricing)
 
 ---
 
