@@ -396,7 +396,7 @@ Not staged for the README — these came up during the actual build, each with a
 - **Hub:** free
 - **Spoke:** billed per VPC, per hour
 
-See the [official pricing page](https://cloud.google.com/network-connectivity/docs/network-connectivity-center/pricing) for current rates before estimating at scale.
+See the [official pricing page](https://cloud.google.com/network-connectivity/pricing?hl=en) for current rates before estimating at scale.
 
 ---
 
