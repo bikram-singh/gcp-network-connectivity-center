@@ -16,6 +16,9 @@
 
 *A real, hands-on Network Connectivity Center (NCC) build across multiple GCP projects and VPCs: hub-and-spoke fundamentals, edge/centre group traffic rules, producer VPC spokes for private cross-project Cloud SQL access, and full PSC Connection Propagation behind an Internal Load Balancer — every behavior confirmed with real console screenshots against live GCP projects, not just described.*
 
+![gcp-network-connectivity-center architecture](docs/snapshots/18-gcp-ncc-architecture.png)
+![gcp-network-connectivity-center thumbnail](docs/snapshots/19-gcp-ncc-architecture-thumbnail.png)
+
 </div>
 
 ---
